@@ -27,3 +27,5 @@ visual_test
 ^vignettes/profilings
 ^cran-comments\.md$
 ^LICENSE\.md$
+^\.github/workflows/R-CMD-check\.yaml$
+^\.github/workflows/pkgdown\.yaml$

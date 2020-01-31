@@ -3,6 +3,10 @@
 
 # ggplot2 <img src="man/figures/logo.png" align="right" width="120" />
 
+<!-- badges: start -->
+
+[![R build
+status](https://github.com/tidyverse/ggplot2/workflows/R-CMD-check/badge.svg)](https://github.com/tidyverse/ggplot2)
 [![Travis Build
 Status](https://travis-ci.org/tidyverse/ggplot2.svg?branch=master)](https://travis-ci.org/tidyverse/ggplot2)
 [![AppVeyor Build
@@ -10,6 +14,7 @@ Status](https://ci.appveyor.com/api/projects/status/github/tidyverse/ggplot2?bra
 [![Coverage
 Status](https://img.shields.io/codecov/c/github/tidyverse/ggplot2/master.svg)](https://codecov.io/github/tidyverse/ggplot2?branch=master)
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/ggplot2)](https://cran.r-project.org/package=ggplot2)
+<!-- badges: end -->
 
 ## Overview
 
