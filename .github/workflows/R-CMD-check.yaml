@@ -32,6 +32,7 @@ jobs:
       CRAN: ${{ matrix.config.cran }}
       _R_CHECK_FORCE_SUGGESTS_: false
       VDIFFR_RUN_TESTS: ${{ matrix.config.vdiff }}
+      VDIFFR_LOG_PATH: "../vdiffr.Rout.fail"
 
     steps:
       - uses: actions/checkout@v1
